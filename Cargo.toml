@@ -1,0 +1,12 @@
+[package]
+name = "Web_scrap"
+version = "0.1.0"
+authors = ["Hina Khadim <hinakhadim2002@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+reqwest = "0.9.22"
+scraper = "0.11.0"
+select = "0.4.3"
