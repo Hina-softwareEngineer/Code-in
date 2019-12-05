@@ -19,5 +19,3 @@ fn main() -> Result<(), Box<std::error::Error>> {
     }
         Ok(())
 }
-// body > div.container.sports.category > div:nth-child(11) 
-// > div.primary.span-16 > div.main.group.clearfix > div.span-6.top-news> div > div > h2 > a
